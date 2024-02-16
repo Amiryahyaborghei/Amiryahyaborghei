@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/React-323540?style=for-the-badge&logo=react&logoColor=5294E2" alt="React.js"  style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Express.js-323540.svg?style=for-the-badge&logo=express&logoColor=5294E2" alt="Express.js" style="border-radius:15px"/> 
     <br/>
-    <img src="https://img.shields.io/badge/React_Router-323540?style=for-the-badge&logo=react-router&logoColor=5294E2" alt="React Router" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Selenium-323540.svg?&style=for-the-badge&logo=selenium&logoColor=5294E2" alt="Selenium" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/PHP-323540?style=for-the-badge&logo=php&logoColor=5294E2" alt="PHP" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Prisma-323540?style=for-the-badge&logo=prisma&logoColor=5294E2" alt="Prisma" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/MongoDB-323540?style=for-the-badge&logo=mongodb&logoColor=5294E2" alt="MongoDB" style="border-radius:15px"/>
@@ -56,7 +56,8 @@
     <img src="https://img.shields.io/badge/Sqlite-323540.svg?style=for-the-badge&logo=sqlite&logoColor=5294E2" alt="Sqlite" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/git-323540.svg?style=for-the-badge&logo=git&logoColor=5294E2" alt="Git" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Django-323540?style=for-the-badge&logo=django&logoColor=5294E2" alt="Django" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Selenium-323540.svg?&style=for-the-badge&logo=selenium&logoColor=5294E2" alt="Selenium" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Flask-323540.svg?&style=for-the-badge&logo=flask&logoColor=5294E2" alt="Flask" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/PyQt-323540.svg?&style=for-the-badge&logo=pyqt&logoColor=5294E2" alt="PyQt" style="border-radius:15px"/>
 </div>
 
 <br/>
