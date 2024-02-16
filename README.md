@@ -57,7 +57,11 @@
     <img src="https://img.shields.io/badge/git-323540.svg?style=for-the-badge&logo=git&logoColor=5294E2" alt="Git" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Django-323540?style=for-the-badge&logo=django&logoColor=5294E2" alt="Django" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Flask-323540.svg?&style=for-the-badge&logo=flask&logoColor=5294E2" alt="Flask" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/PyQt-323540.svg?&style=for-the-badge&logo=pyqt&logoColor=5294E2" alt="PyQt" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Qt-323540.svg?&style=for-the-badge&logo=qt&logoColor=5294E2" alt="Qt" style="border-radius:15px"/>
+    <br/>
+    <img src="https://img.shields.io/badge/Bootstrap-323540.svg?&style=for-the-badge&logo=bootstrap&logoColor=5294E2" alt="Bootstrap" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Godot-323540?style=for-the-badge&logo=godot&logoColor=5294E2" alt="Godot" style="border-radius:15px"/>
+    <br/>
 </div>
 
 <br/>
