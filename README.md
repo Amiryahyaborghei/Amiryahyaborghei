@@ -53,10 +53,9 @@
     <img src="https://img.shields.io/badge/Prisma-323540?style=for-the-badge&logo=prisma&logoColor=5294E2" alt="Prisma" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/MongoDB-323540?style=for-the-badge&logo=mongodb&logoColor=5294E2" alt="MongoDB" style="border-radius:15px"/>
     <br/>
-    <img src="https://img.shields.io/badge/Redis-323540.svg?style=for-the-badge&logo=redis&logoColor=5294E2" alt="Redis" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Photoshop-323540?style=for-the-badge&logo=photoshop&logoColor=5294E2" alt="Photoshop" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Sqlite-323540.svg?style=for-the-badge&logo=sqlite&logoColor=5294E2" alt="Sqlite" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/git-323540.svg?style=for-the-badge&logo=git&logoColor=5294E2" alt="Git" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Illustrator-323540?style=for-the-badge&logo=illustrator&logoColor=5294E2" alt="Illustrator" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Django-323540?style=for-the-badge&logo=django&logoColor=5294E2" alt="Django" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Selenium-323540.svg?&style=for-the-badge&logo=selenium&logoColor=5294E2" alt="Selenium" style="border-radius:15px"/>
 </div>
 
