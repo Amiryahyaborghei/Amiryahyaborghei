@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/React-323540?style=for-the-badge&logo=react&logoColor=5294E2" alt="React.js"  style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Express.js-323540.svg?style=for-the-badge&logo=express&logoColor=5294E2" alt="Express.js" style="border-radius:15px"/> 
     <br/>
-    <img src="https://img.shields.io/badge/Selenium-323540.svg?&style=for-the-badge&logo=selenium&logoColor=5294E2" alt="Selenium" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Bootstrap-323540.svg?&style=for-the-badge&logo=bootstrap&logoColor=5294E2" alt="Bootstrap" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/PHP-323540?style=for-the-badge&logo=php&logoColor=5294E2" alt="PHP" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Prisma-323540?style=for-the-badge&logo=prisma&logoColor=5294E2" alt="Prisma" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/MongoDB-323540?style=for-the-badge&logo=mongodb&logoColor=5294E2" alt="MongoDB" style="border-radius:15px"/>
@@ -59,8 +59,10 @@
     <img src="https://img.shields.io/badge/Flask-323540.svg?&style=for-the-badge&logo=flask&logoColor=5294E2" alt="Flask" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Qt-323540.svg?&style=for-the-badge&logo=qt&logoColor=5294E2" alt="Qt" style="border-radius:15px"/>
     <br/>
-    <img src="https://img.shields.io/badge/Bootstrap-323540.svg?&style=for-the-badge&logo=bootstrap&logoColor=5294E2" alt="Bootstrap" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Godot-323540?style=for-the-badge&logo=godot&logoColor=5294E2" alt="Godot" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Selenium-323540.svg?&style=for-the-badge&logo=selenium&logoColor=5294E2" alt="Selenium" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Latex-323540.svg?&style=for-the-badge&logo=latex&logoColor=5294E2" alt="Latex" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Postman-323540.svg?&style=for-the-badge&logo=postman&logoColor=5294E2" alt="Postman" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Linux-323540.svg?&style=for-the-badge&logo=linux&logoColor=5294E2" alt="Linux" style="border-radius:15px"/>
     <br/>
 </div>
 
