@@ -49,15 +49,15 @@
     <img src="https://img.shields.io/badge/Express.js-323540.svg?style=for-the-badge&logo=express&logoColor=5294E2" alt="Express.js" style="border-radius:15px"/> 
     <br/>
     <img src="https://img.shields.io/badge/React_Router-323540?style=for-the-badge&logo=react-router&logoColor=5294E2" alt="React Router" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/PHP-323540?style=for-the-badge&logo=php&logoColor=5294E2" alt="php" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Prisma-323540?style=for-the-badge&logo=prisma3&logoColor=5294E2" alt="Prisma" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/PHP-323540?style=for-the-badge&logo=php&logoColor=5294E2" alt="PHP" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Prisma-323540?style=for-the-badge&logo=prisma&logoColor=5294E2" alt="Prisma" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/MongoDB-323540?style=for-the-badge&logo=mongodb&logoColor=5294E2" alt="MongoDB" style="border-radius:15px"/>
     <br/>
     <img src="https://img.shields.io/badge/Redis-323540.svg?style=for-the-badge&logo=redis&logoColor=5294E2" alt="Redis" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Heroku-323540?style=for-the-badge&logo=heroku&logoColor=5294E2" alt="Heroku" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Photoshop-323540?style=for-the-badge&logo=photoshop&logoColor=5294E2" alt="Photoshop" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/git-323540.svg?style=for-the-badge&logo=git&logoColor=5294E2" alt="Git" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Markdown-323540?style=for-the-badge&logo=markdown&logoColor=5294E2" alt="Markdown" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Webstorm-323540.svg?&style=for-the-badge&logo=webstorm&logoColor=5294E2" alt="Webstorm" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Illustrator-323540?style=for-the-badge&logo=illustrator&logoColor=5294E2" alt="Illustrator" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Selenium-323540.svg?&style=for-the-badge&logo=selenium&logoColor=5294E2" alt="Selenium" style="border-radius:15px"/>
 </div>
 
 <br/>
