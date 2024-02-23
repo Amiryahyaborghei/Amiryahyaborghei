@@ -1,3 +1,4 @@
+<img src="https://github.com/AryaAshouri/AryaAshouri/blob/main/Header.png">
 <div align="center">
     <h4 align="center"><samp> Fullstack Web Developer - App Developer - Graphic Designer </samp></h4>
 </div>
